@@ -1,0 +1,54 @@
+﻿body {
+    background-color:black;
+    color: violet;
+    font-family:Arial, 'Lucida Sans Unicode';
+    font-size: 80%;
+    text-align: left;
+    line-height: 2.0;
+    border:solid;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: red;
+}
+
+a:hover, a:active {
+    background-color:#ffd800;
+    color:#ff0000;
+}
+
+.body {
+    margin:0 auto;
+    width: 70%;
+    clear:both;
+    border:dotted;
+    color:#ff0000;
+}
+
+.mainheader img {
+    width: auto;
+    height:auto;
+    
+    
+}
+
+.menu {
+
+   
+    right: 200px;
+    top: 100px;
+    width: 950px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    background-color: wheat;
+        border-radius: 05px;  
+  
+}
+

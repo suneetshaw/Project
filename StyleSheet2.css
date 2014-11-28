@@ -1,0 +1,33 @@
+﻿body {
+    background-color:blueviolet;
+    color: #b6ff00;
+    font-family:Arial, 'Lucida Sans Unicode';
+    font-size: 80%;
+    text-align: left;
+    line-height: 2.0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: purple;
+}
+
+a:hover, a:active {
+    background-color:#ff0000;
+    color:#4cff00;
+}
+
+.body {
+    margin:0 auto;
+    width: 70%;
+    clear:both;
+}
+
+.mainheader img {
+    width: 30%;
+    height:auto;
+    margin:2% 0;
+}
